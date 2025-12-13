@@ -1,0 +1,9 @@
+Grade 91/100
+
+-2pt: In Q1(i), features should include all variables used for prediction; therefore, the spending amounts of other products should not be included in X
+
+-3pts: In Q1 (v), "cv=6" does not shuffle data by default, potentially leading to issues
+
+-2pts: In Q1 (vi), the CV does not shuffle data
+
+-2pt: Q3 (iii) asks to explain all numbers in the report. Recall and precision for medium and high classes, support numbers are not explained
